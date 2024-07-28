@@ -25,3 +25,11 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+
+REFERENCE TO FLIGHT APP IN ANGULAR JSON
+
+BY USING SKIP TEST TRUE IN ANGVULAR JSON WE CAN AOID BY GENERATING SPEC TS IN ANGULAR COMPONENT GENERATION
+
+BY USING PREFIX "app" from "any custom word" we can generate the can change components selector name while doing a component genration
